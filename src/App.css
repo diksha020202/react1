@@ -36,3 +36,83 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  color: black;
+  font-size: 40px;
+  
+}
+
+.joinus{
+  color: white;
+  background-color: blue;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.contactus{
+  color: white;
+  background-color: red;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+.login{
+  color: white;
+  background-color: yellow;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.search{
+  color: white;
+  background-color: green;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.home{
+  color: white;
+  background-color: pink;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.settings{
+  color: white;
+  background-color: grey;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.help{
+  color: white;
+  background-color: purple;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.download{
+  color: white;
+  background-color: brown;
+  width: 100px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.right{
+  float: right;
+  margin-right: 1300px;
+  
+ 
+
+}
+
